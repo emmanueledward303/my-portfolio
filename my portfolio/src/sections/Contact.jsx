@@ -27,15 +27,15 @@ export default function Contact() {
           </p>
 
           <div className="contact__links">
-            <a href="mailto:you@email.com" className="contact__link">
+            <a href="mailto: emmanueledward303@gmail.com" className="contact__link">
               <span className="link-icon">✉</span>
-              you@email.com
+              emmanueledward303@gmail.com
             </a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" className="contact__link">
+            <a href="https://www.linkedin.com/in/emmanuel-edward-0a38052b4" target="_blank" rel="noreferrer" className="contact__link">
               <span className="link-icon">in</span>
               LinkedIn
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noreferrer" className="contact__link">
+            <a href="https://github.com/emmanueledward303" target="_blank" rel="noreferrer" className="contact__link">
               <span className="link-icon">gh</span>
               GitHub
             </a>
@@ -94,7 +94,7 @@ export default function Contact() {
 
       <div className="footer">
         <div className="container footer__inner">
-          <span>© 2025 Your Name. Built with React + Vite.</span>
+          <span>© 2025 EDWARD EMMANUEL. Built with React + Vite.</span>
           <span>Lagos, Nigeria</span>
         </div>
       </div>

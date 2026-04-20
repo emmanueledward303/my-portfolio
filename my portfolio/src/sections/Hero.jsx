@@ -15,7 +15,7 @@ export default function Hero() {
         </h1>
 
         <p className="hero__sub fade-up fade-up-3">
-          Hi, I'm <strong>EDWARD EMMANUEL</strong> a data analyst who finds the signal in the noise.<br />
+          Hi, I'm <strong>EDWARD EMMANUEL</strong> a Aspiring data analyst who finds the signal in the noise.<br />
           I work with SQL, Python, and data viz tools to help teams act on what matters.
         </p>
 
@@ -26,9 +26,9 @@ export default function Hero() {
 
         <div className="hero__metrics fade-up fade-up-5">
           {[
-            { val: '3+', label: 'Years of experience' },
-            { val: '20+', label: 'Projects delivered' },
-            { val: '5', label: 'Tools mastered' },
+            { val: '2+', label: 'Years of experience' },
+            { val: '3+', label: 'Projects delivered' },
+            { val: '4', label: 'Tools mastered' },
           ].map(m => (
             <div className="metric" key={m.label}>
               <span className="metric__val">{m.val}</span>

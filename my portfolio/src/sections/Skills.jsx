@@ -4,28 +4,28 @@ const categories = [
   {
     name: 'Data & Querying',
     skills: [
-      { name: 'SQL', level: 95 },
-      { name: 'Python (pandas, numpy)', level: 88 },
-      { name: 'dbt', level: 72 },
-      { name: 'BigQuery / Snowflake', level: 78 },
+      { name: 'SQL', level: 10 },
+      { name: 'Python (pandas, numpy)', level: 15 },
+      { name: 'dbt', level: 4 },
+      { name: 'BigQuery / Snowflake', level: 0 },
     ],
   },
   {
     name: 'Visualisation',
     skills: [
-      { name: 'Power BI', level: 92 },
-      { name: 'Tableau', level: 85 },
-      { name: 'Excel / Google Sheets', level: 90 },
-      { name: 'Matplotlib / Seaborn', level: 75 },
+      { name: 'Power BI', level: 52 },
+      { name: 'Tableau', level: 45 },
+      { name: 'Excel / Google Sheets', level: 16 },
+      { name: 'Matplotlib / Seaborn', level: 3 },
     ],
   },
   {
     name: 'Analytics & Methods',
     skills: [
-      { name: 'Statistical analysis', level: 82 },
-      { name: 'A/B testing', level: 76 },
-      { name: 'Cohort & funnel analysis', level: 88 },
-      { name: 'Machine learning basics', level: 65 },
+      { name: 'Statistical analysis', level: 11 },
+      { name: 'A/B testing', level: 6 },
+      { name: 'Cohort & funnel analysis', level: 8 },
+      { name: 'Machine learning basics', level: 5 },
     ],
   },
 ]

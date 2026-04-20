@@ -29,7 +29,7 @@ export default function About() {
             <div className="about__tools">
               <span className="tools-label">Day-to-day stack</span>
               <div className="tools-list">
-                {['Python', 'SQL', 'Power BI', 'Tableau', 'Excel', 'dbt', 'BigQuery'].map(t => (
+                {['Python', 'SQL', 'Power BI', 'Excel',].map(t => (
                   <span className="tool-pill" key={t}>{t}</span>
                 ))}
               </div>
